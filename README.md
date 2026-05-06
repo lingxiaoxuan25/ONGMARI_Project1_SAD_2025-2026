@@ -1,7 +1,7 @@
 # ONGMARI_Project1_SAD_2025-2026
 
 Group Members: 
-Emily Tai Pei En 
-Ling Xiao Xuan
-Lok Jie Ying
-Ma Liwei
+- Emily Tai Pei En 
+- Ling Xiao Xuan
+- Lok Jie Ying
+- Ma Liwei
